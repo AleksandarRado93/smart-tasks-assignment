@@ -1,0 +1,48 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Smart Tasks</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error_unknown">Unknown error</string>
+
+    <!-- Task List -->
+    <string name="task_list_title">Tasks</string>
+    <string name="previous_day">Previous Day</string>
+    <string name="next_day">Next Day</string>
+    <string name="no_tasks">No tasks available</string>
+    <string name="empty_state_message">You have no tasks for this day.</string>
+
+    <!-- Task Item -->
+    <string name="due_date">Due date</string>
+    <string name="no_due_date">No due date</string>
+    <string name="unavailable">—</string>
+    <string name="due_date_label">Due date</string>
+    <string name="days_left_label">Days left</string>
+    <string name="expired">Expired</string>
+
+    <!-- Task Details -->
+    <string name="task_detail_title">Task Detail</string>
+    <string name="no_description">No description available</string>
+    <string name="comment_label">Comment:</string>
+    <string name="resolve_task">Resolve</string>
+    <string name="cant_resolve_task">Can’t resolve</string>
+    <string name="status_resolved">Resolved</string>
+    <string name="status_unresolved">Unresolved</string>
+    <string name="status_cant_resolve">Can’t resolve</string>
+    <string name="task_marked_as">Task marked as %1$s</string>
+
+    <!-- Comment Dialog -->
+    <string name="leave_comment_title">Do you want to leave a comment?</string>
+    <string name="comment_hint">Enter your comment…</string>
+    <string name="confirm_comment">Submit</string>
+    <string name="skip_comment">Skip</string>
+
+    <!-- Errors / States -->
+    <string name="loading">Loading…</string>
+    <string name="error_message">Error: %1$s</string>
+
+</resources>
